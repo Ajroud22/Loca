@@ -1,0 +1,7 @@
+espace admin :
+Username = Visteon
+Password = admin123
+----------------------------------------------------------------------------
+espace operator :
+Username = operator
+Password = tunisiaplant
